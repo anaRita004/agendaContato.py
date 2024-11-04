@@ -15,7 +15,4 @@ Este é um projeto simples em Python que simula uma agenda de contatos, permitin
 3. No terminal, navegue até o diretório onde o código está salvo e execute:
 
    ```bash
-   python nome_do_arquivo.py
-# agendaContato.py
-# agendaContato.py
-# agendaContato.py
+   python agendaContato.py
